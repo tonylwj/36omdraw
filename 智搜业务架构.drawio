@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="ZOd1IX-aZES6Ge8w8rSn">
+    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GLmCMUdNkRaYi_yjpb2b-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;外部用户&lt;/font&gt;&lt;div&gt;阿里、蚂蚁、逗逗、平安、讯飞、理想汽车 等&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GLmCMUdNkRaYi_yjpb2b-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;搜索AI化&lt;/font&gt;&lt;div&gt;首条、BOX、PPT、医疗、政务、金融、教育 等&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GLmCMUdNkRaYi_yjpb2b-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;纳米&lt;/font&gt;&lt;div&gt;AI搜索、智写 等&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="410" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GLmCMUdNkRaYi_yjpb2b-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;其它部门&lt;/font&gt;&lt;div&gt;中台、移动办公、内容平台、浏览器、极库云、智脑、GR、卫士、云盘、管理信息中心 等&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="530" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
